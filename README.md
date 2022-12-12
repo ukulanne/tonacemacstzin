@@ -3,7 +3,7 @@
 
 ## Trailing slash on AIX using emacs 26.1
 
-To remove the trailing slashes when opening a file (find-file M-x f) get this file [file-name-all-completions-aix.el](https:///tonacemacstzin/blob/master/file-name-all-completions-aix/file-name-all-completions-aix.el) and put it in your $HOME directory.  
+To remove the trailing slashes when opening a file (find-file M-x f) get this file [file-name-all-completions-aix.el]https://github.com/ukulanne/tonacemacstzin/blob/main/file-name-all-completions-aix/file-name-all-completions-aix.el) and put it in your $HOME directory.  
 
 Next do:
 
